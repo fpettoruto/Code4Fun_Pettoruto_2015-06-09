@@ -1,0 +1,3 @@
+Write a function that fills an array of size N with the numbers from 1 to N in random order
+without duplicates.
+Refrain from using shuffling algorithms or framework provided methods
