@@ -1,0 +1,8 @@
+C:\Progetti\Personali\Code4fun\Code4Fun_Pettoruto_2015-06-09\src\Code4Fun\Code4Fun\bin\Debug\Code4Fun.exe.config
+C:\Progetti\Personali\Code4fun\Code4Fun_Pettoruto_2015-06-09\src\Code4Fun\Code4Fun\obj\Debug\Code4Fun.csprojResolveAssemblyReference.cache
+C:\Progetti\Personali\Code4fun\Code4Fun_Pettoruto_2015-06-09\src\Code4Fun\Code4Fun\bin\Debug\Code4Fun.exe
+C:\Progetti\Personali\Code4fun\Code4Fun_Pettoruto_2015-06-09\src\Code4Fun\Code4Fun\bin\Debug\Code4Fun.pdb
+C:\Progetti\Personali\Code4fun\Code4Fun_Pettoruto_2015-06-09\src\Code4Fun\Code4Fun\bin\Debug\nunit.framework.dll
+C:\Progetti\Personali\Code4fun\Code4Fun_Pettoruto_2015-06-09\src\Code4Fun\Code4Fun\bin\Debug\nunit.framework.xml
+C:\Progetti\Personali\Code4fun\Code4Fun_Pettoruto_2015-06-09\src\Code4Fun\Code4Fun\obj\Debug\Code4Fun.exe
+C:\Progetti\Personali\Code4fun\Code4Fun_Pettoruto_2015-06-09\src\Code4Fun\Code4Fun\obj\Debug\Code4Fun.pdb
