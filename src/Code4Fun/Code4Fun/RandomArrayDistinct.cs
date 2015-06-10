@@ -17,7 +17,23 @@ namespace Code4Fun
         }
         public void PopulateArray()
         {
-            throw new NotImplementedException();
+            int j = 0;
+            var r = new Random();
+
+            for (var i = 0; j < maxElement; i++)
+            {
+                var randomValue = r.Next(maxElement);
+                if (IntIsUsed[randomValue] == 1)
+                {
+                    randomValue = j;
+                }
+
+                if (IntIsUsed[randomValue] != 1)
+                {
+                    IntIsUsed[randomValue] = 1;
+                    DistinctArray[j++] = randomValue + 1;
+                }
+            }
         }
 
       
