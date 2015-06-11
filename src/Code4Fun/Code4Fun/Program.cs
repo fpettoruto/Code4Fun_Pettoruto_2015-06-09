@@ -35,10 +35,7 @@ namespace Code4Fun
                 Console.WriteLine("\n");
                 Console.ReadKey();
             }
-
-            //Console.ReadKey();
-
-
+     
         }
 
     }
