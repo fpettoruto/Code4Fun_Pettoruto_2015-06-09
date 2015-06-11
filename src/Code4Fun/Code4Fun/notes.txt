@@ -1,0 +1,26 @@
+﻿example:
+
+max length = 4
+
+1° iteration
+r = 2  j = 0
+0001
+3000
+j=1
+
+2° iteration
+r = 2  j = 1
+r=j
+0101
+3200
+j=2
+
+3° iteration
+r = 1  j = 2
+r=j
+0101
+3200
+j=2
+
+etc...
+
